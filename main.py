@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Required modules
-required_modules = ["customtkinter", "Pillow"]
+required_modules = ["customtkinter", "Pillow", "CTkMessagebox"]
 
 # Function to check and install
 def check_and_install():
